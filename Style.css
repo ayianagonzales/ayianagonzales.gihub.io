@@ -2,7 +2,7 @@ body{
   background-color#FFF
   margin: 0;
   padding: 0;
-  padding-top: 80px;   
+  padding-top: 30px;   
 }
 
 #cover{
@@ -49,7 +49,6 @@ li {
 }
 
 h1 {
-     color: #FFF;
   font-family:'Dancing Script', cursive;
   font-size: 72px;
   line-height: 60px;
@@ -84,18 +83,3 @@ h3 {
     text-align: center;
 }
 
-.products {
-  background: #EEEFF1;
-  box-sizing: border-box;
-  width: 90%;
-  margin: 20px auto;
-  padding: 20px 0px;
-  text-align: center;
-}
-
-.product {
-  display: inline-block;
-  margin: 0px 2% 80px 2%;
-  text-align: center;
-  width: 45%;
-}
